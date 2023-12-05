@@ -88,6 +88,8 @@ ul li::before{
     left: 8px;
 }
 
+/* icons Monochrome Red by Freepik */
+
 ul li.checked{
     color: #555;
     text-decoration: line-through;
@@ -96,6 +98,9 @@ ul li.checked{
 ul li.checked::before{
     background-image: url(assets/checked.png);
 }
+
+/* icons Monochrome Red by Freepik */
+
 ul li span{
     position: absolute;
     right: 0;
